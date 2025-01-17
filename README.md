@@ -1,6 +1,7 @@
 # MR-Physics-With-Pulseq
 Materials for the Ph.D. Training program of the German Chapter of the ISMRM and beyond.
 
+
 In this course, basic and advanced concepts of MR physics are introduced through theoretical lectures by MR experts and followed by the corresponding hands-on exercises. 
 
 ## Necessary technical preparation steps
